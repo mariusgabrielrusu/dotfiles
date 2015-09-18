@@ -1,0 +1,40 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "consolas",
+	"font_options": "subpixel_antialias",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"match_brackets": true,
+	"material_theme_accent_lime": true,
+	"material_theme_bold_tab": true,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "disabled",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": false,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}
