@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"DocBlockr_Python",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SummitLinter",
+		"Terminal",
+		"Theme - Centurion",
+		"Theme - Flatland",
+		"Theme - Spacegray"
+	]
+}
