@@ -5,16 +5,19 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
-		"CodeFormatter",
+		"Anaconda",
+		"Colorsublime",
+		"DocBlockr_Python",
 		"Emmet",
-		"HTML-CSS-JS Prettify",
-		"JSLint",
-		"Material Color Scheme",
-		"Material Theme",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
 		"Package Control",
-		"PackageResourceViewer",
-		"Theme - Brogrammer",
-		"Theme - Glacier"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SummitLinter",
+		"Terminal",
+		"Theme - Centurion"
 	]
 }
