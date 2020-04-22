@@ -4,7 +4,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Code-Lover.tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"draw_minimap_border": true,
@@ -15,7 +15,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -49,7 +49,7 @@
 	"show_full_path": false,
 	"sidebar_default": true,
 	"synch_scroll": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"word_wrap": false
 }
